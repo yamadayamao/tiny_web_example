@@ -1,3 +1,4 @@
-# Tiny Web Example Team 3 Repo
+# Tiny Web Example
 
-
+## Team Name
+* Team 3
